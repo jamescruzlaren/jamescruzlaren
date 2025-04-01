@@ -8,5 +8,5 @@ pip install rich
 pip install requests
 termux-setup-storage
 git clone https://github.com/jamescruzlaren/jamescruzlaren
-cd anak
-python anak.py
+cd jamescruzlaren
+python brian.py
