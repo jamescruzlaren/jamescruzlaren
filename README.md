@@ -1,12 +1,12 @@
-- 👋 Hi, I’m @jamescruzlaren
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-jamescruzlaren/jamescruzlaren is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# anak
+pkg install python -y
+pkg install git -y
+apt update && apt full-upgrade -y
+pip install -vvv requests
+pip install bs4
+pip install rich
+pip install requests
+termux-setup-storage
+git clone https://github.com/jamescruzlaren/James.git
+cd anak
+python anak.py
