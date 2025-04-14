@@ -141,7 +141,7 @@ def approval():
         linex()
 
         urls = [
-            "https://github.com/jamescruzlaren/Approval"
+            "https://github.com/jamescruzlaren/Approval-2/blob/main/Brian1.txt"
         ]
         
         key_found = False
@@ -191,7 +191,7 @@ def approvalf():
         #linex()
 
         urls = [
-           "https://github.com/jamescruzlaren/Approval"
+           "https://github.com/jamescruzlaren/Approval-2/blob/main/Brian1.txt"
         ]
         
         key_found = False
