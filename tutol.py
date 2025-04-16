@@ -637,7 +637,7 @@ time.sleep(5)
 
 user_id = str(os.geteuid())
 uuid = f"{user_id}DS{user_id}"
-key = f"brian-{uuid}"
+key = f"brii-{uuid}"
 
 def get_approval_data(url):
     response = requests.get(url)
@@ -649,7 +649,7 @@ def approval():
     try:
         user_id = str(os.geteuid())
         uuid = f"{user_id}BS{user_id}"
-        key = f"brian-{uuid}"
+        key = f"brii-{uuid}"
 
         clear()
         print("\033[1;37m [\u001b[36m•\033[1;37m] You Need Approval To Use This Tool   \033[1;37m")
@@ -658,7 +658,7 @@ def approval():
         linex()
 
         urls = [
-            "https://github.com/jamescruzlaren/jamescruzlaren"
+            "https://github.com/jamescruzlaren/Approval-2/blob/main/Approval-3"
         ]
         
         key_found = False
@@ -699,7 +699,7 @@ def approvalf():
     try:
         ###user_id = str(os.geteuid())
        ## uuid = f"{user_id}BS{user_id}"
-        ###key = f"brian-{uuid}"
+        ###key = f"brii-{uuid}"
 
        # clear()
         ###print("\033[1;37m [\u001b[36m•\033[1;37m] You Need Approval To Use This Tool   \033[1;37m")
@@ -708,7 +708,7 @@ def approvalf():
         #linex()
 
         urls = [
-           "https://github.com/jamescruzlaren/jamescruzlaren"
+           "https://github.com/jamescruzlaren/Approval-2/blob/main/Approval-3"
         ]
         
         key_found = False
